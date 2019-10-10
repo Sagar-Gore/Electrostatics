@@ -1,2 +1,4 @@
-# Electrostatics
-Mapping electrostatics potential at 3D atomic positions
+# Electrostatics potential parser
+# Mapping electrostatics potential at 3D atomic coordinates
+## Electrostatic potential for a given 3D structure of protein is computed using AQUASOL or APBS
+## At given atomic position potential values could be mapped
